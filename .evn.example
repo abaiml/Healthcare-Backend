@@ -1,0 +1,11 @@
+# Example environment variables file for the healthcare project
+
+# Django secret key (Replace with an actual secret key)
+SECRET_KEY=your-secret-key-here
+
+# PostgreSQL Database Configuration
+DB_NAME=your-database-name-here      # Name of your PostgreSQL database
+DB_USER=your-database-user-here      # Database username
+DB_PASSWORD=your-database-password-here  # Database password
+DB_HOST=localhost                    # Database host (e.g., localhost or remote IP)
+DB_PORT=5432                          # Database port (default: 5432)
