@@ -21,8 +21,8 @@ The API allows authenticated users to manage patients, doctors, and patient-doct
 
 ### **1. Clone the repository**
   ```
-  git clone https://github.com/abaiml/PMS.git
-  cd PMS
+  git clone https://github.com/abaiml/Healthcare-Backend.git
+  cd Healthcare-Backend
   ```
 
 ### **2. Create and Activate Virtual Environment**  
