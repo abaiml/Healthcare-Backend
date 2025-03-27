@@ -19,8 +19,11 @@ The API allows authenticated users to manage patients, doctors, and patient-doct
 
 ## **Installation & Setup**
 
-### **1. Clone the Project**  
-Copy the project folder to your local system.
+### **1. Clone the repository
+  ```
+  git clone https://github.com/abaiml/PMS.git
+  cd PMS
+  ```
 
 ### **2. Create and Activate Virtual Environment**  
 ```
